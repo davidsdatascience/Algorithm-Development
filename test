@@ -1,0 +1,5 @@
+
+
+import numpy
+j0=2
+Q=((k^2)*((2*j0+1)^2-k^2)/(4*sqrt(4*k*k)-1)) for k in xrange(0...2*j0))
